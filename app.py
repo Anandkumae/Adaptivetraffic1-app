@@ -139,12 +139,12 @@ st.sidebar.write("Explore more traffic-related datasets on Kaggle:")
 st.sidebar.write("[Kaggle Traffic Datasets](https://www.kaggle.com/datasets?search=traffic)")
 
 st.sidebar.markdown("📞 **Contact**")
-st.sidebar.write("[LinkedIn Profile](https://www.linkedin.com/in/your-profile)")
+st.sidebar.write("[LinkedIn Profile](https://www.linkedin.com/in/anand-kumar-91461a19a)")
 
 st.sidebar.markdown("🛠 **Help & Support**")
-st.sidebar.write("- [GitHub Issues](https://github.com/your-repo/issues)")
-st.sidebar.write("- [LinkedIn](https://www.linkedin.com/in/your-profile)")
-st.sidebar.write("- Local Developer Contact: dev.local@example.com")
+st.sidebar.write("- [GitHub Issues](https://github.com/Anandkumae/Adaptivetraffic1-app/issues)")
+st.sidebar.write("- [LinkedIn](https://www.linkedin.com/in/anand-kumar-91461a19a)")
+st.sidebar.write("- Local Developer Contact: anandkumar06091561@gmail.com")
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("English(India)")
