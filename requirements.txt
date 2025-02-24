@@ -1,7 +1,9 @@
-ultralytics
-opencv-python-headless
 streamlit
+opencv-python
 numpy
-pillow
+pandas
+matplotlib
+requests
+ultralytics
 
 
