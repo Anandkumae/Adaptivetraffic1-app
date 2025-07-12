@@ -56,9 +56,7 @@ It uses:
 
 ## 🚀 Demo
 
-🔗 [Add a link to your live Streamlit or web demo if deployed]
-
-📷 Include screenshots or a short GIF here!
+🔗 [https://adaptivetraffic1-app.streamlit.app/]
 
 ---
 
