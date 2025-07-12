@@ -21,7 +21,7 @@ A smart, AI-powered traffic signal system that dynamically adjusts signal timing
 
 ## ✅ About
 
-The **Smart Adaptive Traffic Signal System** is designed to reduce traffic congestion in urban areas by dynamically optimizing signal phases using real-time traffic data.  
+The **Smart Adaptive Traffic Signal System** is designed to reduce traffic congestion in urban areas by dynamically optimizing signal phases using real-time traffic data.
 It uses:
 - **Computer Vision** to detect vehicle count & density.
 - **Machine Learning** algorithms to predict optimal signal timings.
@@ -79,21 +79,23 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run app.py
-🧩 Usage
-Connect the traffic video feed (CCTV footage or webcam).
+```
 
-The system runs vehicle detection on frames.
+---
 
-ML model predicts optimal signal timing.
+## 🧩 Usage
 
-Dashboard updates signal phases live.
+1. Connect the traffic video feed (CCTV footage or webcam).
+2. The system runs vehicle detection on frames.
+3. ML model predicts optimal signal timing.
+4. Dashboard updates signal phases live.
+5. Logs data for future model retraining.
 
-Logs data for future model retraining.
+---
 
-📂 Project Structure
-bash
-Copy
-Edit
+## 📂 Project Structure
+
+```
 smart-traffic-system/
 │
 ├── data/                 # Sample traffic video data
@@ -104,43 +106,36 @@ smart-traffic-system/
 ├── Dockerfile            # Container config
 ├── .github/workflows/    # CI/CD pipeline
 └── README.md             # Project README
-🔭 Future Improvements
-Add multi-camera intersection support.
+```
 
-Integrate with real-time traffic APIs for richer data.
+---
 
-Deploy on edge devices (Raspberry Pi with cameras).
+## 🔭 Future Improvements
 
-Add predictive analytics for rush hours.
+- Add multi-camera intersection support.
+- Integrate with real-time traffic APIs for richer data.
+- Deploy on edge devices (Raspberry Pi with cameras).
+- Add predictive analytics for rush hours.
+- Scale for city-wide implementation with IoT sensors.
 
-Scale for city-wide implementation with IoT sensors.
+---
 
-🤝 Contributing
+## 🤝 Contributing
+
 Pull requests are welcome!
+1. Fork the repo
+2. Create your branch: `git checkout -b feature/awesome-feature`
+3. Commit your changes: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature/awesome-feature`
+5. Open a Pull Request
 
-Fork the repo
+---
 
-Create your branch: git checkout -b feature/awesome-feature
+## 📜 License
 
-Commit your changes: git commit -m 'Add new feature'
+Distributed under the MIT License. See `LICENSE` for details.
 
-Push to the branch: git push origin feature/awesome-feature
+---
 
-Open a Pull Request
-
-📜 License
-Distributed under the MIT License. See LICENSE for details.
-
-Developed with ❤️ by [Anand Kumar]
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
+**Developed with ❤️ by [Anand Kumar]**
 
